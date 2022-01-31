@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @amberitas17
+- I am a BS in Information Technology Student at Silliman University
+- Administrative Officer and Web Designer at CAWIL.AI Solutions
 - 👀 I’m interested in HTML/CSS/JS, Python, C language, SQL, PHP
 - 🌱 I’m currently learning C Language
 - 💞️ I’m looking to collaborate on C Language
