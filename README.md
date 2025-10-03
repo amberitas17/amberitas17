@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @amberitas17
-- I am a BS in Information Technology Student at Silliman University
-- Administrative Officer and Web Designer at CAWIL.AI Solutions
-- 👀 I’m interested in HTML/CSS/JS, Python, C language, SQL, PHP
-- 🌱 I’m currently learning C Language
+- BS in Information Technology, Former Student at Silliman University
+- Bachelor of Industrial Technology, majoring in Electronics and Communications Technology, Student at Bulacan State University
+- Lead Engineer and AI Engineer at CAWIL.AI Solutions
+- ✨ Azure AI Engineer Certified
+- React JS and Native Enthusiast with knowledge in deploying Google Play Store and App Store
+- 👀 I’m interested in Python, C++ language (Arduino), SQL, and PHP
+- 🌱 I’m currently learning C++ Language for Arduino
 - 💞️ I’m looking to collaborate on C Language
 - 📫 How to reach me: Email- amberclarisse0928@gmail.com, Twitter: https://twitter.com/amberitas17
 
